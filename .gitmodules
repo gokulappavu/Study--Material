@@ -1,0 +1,6 @@
+[submodule "WHYtap"]
+	path = WHYtap
+	url = https://github.com/gokulappavu/WHYtap.git
+[submodule "Udemy"]
+	path = Udemy
+	url = https://github.com/gokulappavu/Udemy.git
